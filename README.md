@@ -69,15 +69,9 @@
 <h2 align="left">🔥Mis Estadísticas:</h2>
 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Danilo0203&locale=es&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danilo0203&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Lenguajes%20mas%20utilizados" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Danilo0203&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Danilo0203&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Danilo0203/Danilo0203/output/snake.svg" alt="Snake animation" />
-
-###
