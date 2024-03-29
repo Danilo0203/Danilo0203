@@ -3,7 +3,7 @@
 ###
 
 <div align="center" >
-  <img height="250" src="./GitHubcover.png" width="100%" />
+  <img height="200" src="./GitHubcover.png" width="100%" />
 </div>
 
 ###
