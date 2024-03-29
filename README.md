@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Soy desarrollador Frontend Junior de Guatemala</p>
+<p align="left">Soy un Desarrollador Frontend con alrededor de 2 años de experiencia. Me apasiona crear interfaces web atractivas y funcionales. Mi objetivo es establecer mi propia empresa y ofrecer servicios de desarrollo web a negocios locales y emprendedores. Estoy comprometido en aplicar mis habilidades para impulsar los objetivos de otros mediante soluciones web innovadoras y efectivas. Siempre estoy buscando aprender y crecer en mi carrera como desarrollador frontend.</p>
 
 ###
 
